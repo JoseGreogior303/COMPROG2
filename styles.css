@@ -1,0 +1,45 @@
+html {
+  font-size: 20px;
+}
+
+.navbar-brand {
+  margin-left: 100px;
+}
+
+.contents {
+  background-color: #faecd6;
+
+  padding: 50px;
+}
+
+.learn {
+  color: red;
+}
+
+.btn-circle {
+  border-radius: 60%;
+}
+
+nav {
+  border-width: 20px !important ;
+}
+
+a {
+  font-family: "Lilita One", cursive;
+  margin: 10px;
+}
+
+h3 {
+  font-family: "Fredoka One", cursive;
+}
+
+p {
+  color: black;
+  font-size: 15px;
+}
+
+img {
+  width: 14rem;
+  height: 17rem;
+  border-radius: 5%;
+}
